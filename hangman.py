@@ -1,5 +1,6 @@
 # Hangman game
 # Author: Jackson Stobart
+# Rev 1.0 - 2023-11-23
 
 print("Welcome to my Python Hangman Game!")
 
